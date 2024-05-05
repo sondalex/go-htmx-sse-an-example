@@ -1,0 +1,3 @@
+go-htmx-sse
+dist/
+node_modules/
